@@ -14,8 +14,8 @@ public class Category {
     return name;
   }
 
-  public static ArrayList<Category> all() {
-  }
+  // public static ArrayList<Category> all() {
+  // }
 
   public int getId() {
     return id;
